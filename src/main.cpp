@@ -4,6 +4,7 @@
 #include <BLEServer.h>
 #include <BLEUtils.h>
 #include <HardwareSerial.h>
+#include <SPI.h>
 
 #include "BLEIMUService.h"
 #include "BLEMACAddressService.h"

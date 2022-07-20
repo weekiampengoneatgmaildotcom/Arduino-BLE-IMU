@@ -4,6 +4,7 @@
 #include <WiFi.h>
 
 #include <map>
+#include <vector>
 
 unsigned int WIFI_CONNECT_TIMEOUT_MS = 5000;
 

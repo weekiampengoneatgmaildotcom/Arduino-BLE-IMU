@@ -4,6 +4,7 @@
 #include <PubSubClient.h>
 #include <WiFi.h>
 #include <string>
+#include <vector>
 
 class MQTTClient {
  public:
